@@ -1,10 +1,10 @@
 # Lista 7: Subconjuntos Especiais (Independentes, Dominantes e Acoplamentos)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VtF5V_sHAhDEXcmgLZwqNZcOMX9U3sqO)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VtF5V-sHAhDEXcmgLZwqNZcOMX9U3sq0?usp=sharing)
 
 📄 **Documentação e Relatórios**
 
-* [Ver Código Completo e Execução no Google Colab](https://colab.research.google.com/drive/1VtF5V_sHAhDEXcmgLZwqNZcOMX9U3sqO)
+* [Ver Código Completo e Execução no Google Colab](https://colab.research.google.com/drive/1VtF5V-sHAhDEXcmgLZwqNZcOMX9U3sq0?usp=sharing)
 
 ---
 
