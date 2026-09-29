@@ -1,0 +1,29 @@
+Diário de Bordo — Uso de IA
+
+Disciplina: Teoria dos Grafos — Lista 7 (Subconjuntos especiais)
+Dupla: Bruno Alves Mendonça de Abreu Filho e Messias Mendes
+Chat utilizado: ChatGPT
+
+Entrada — 29/09/2026 — 09:49
+Questão(ões): Questões 1 e 2 — conjuntos independentes e formulação por Programação Linear Inteira.
+Onde travamos / objetivo da conversa:
+Tivemos dificuldade para diferenciar os conceitos de conjunto independente, conjunto maximal e conjunto máximo. Também tivemos dúvidas sobre como aplicar a estratégia gulosa e como utilizar a matriz \(B^t\) para verificar se um conjunto é independente.
+O que perguntamos ao tutor:
+Primeiro pedimos para resolver a Questão 1 passo a passo. Depois pedimos uma explicação mais resumida para podermos anotar. Em seguida, pedimos a resolução da Questão 2 da mesma forma.
+O que o tutor respondeu ou perguntou (resumo):
+O tutor explicou os conceitos de independente, maximal e máximo e mostrou como percorrer os vértices do grafo na ordem \(1,2,3,4,5,6\). Também explicou como verificar conflitos entre vértices usando as arestas. Na Questão 2, explicou a ideia das variáveis \(x_i\), das restrições \(x_i+x_j\leq1\) e do produto \(B^t x\).
+O que fizemos com isso (aceitamos? questionamos? corrigimos?):
+Comparamos as explicações com o grafo e verificamos as arestas antes de aceitar os resultados. Depois pedimos uma versão mais resumida para facilitar a anotação e o entendimento do conteúdo.
+A IA tentou dar a resposta pronta ou errou? Como reagimos?
+Sim. A IA apresentou a solução pronta das questões, inclusive os conjuntos, cálculos e resultados. Percebemos que isso não corresponde totalmente à proposta de utilizar a IA como tutor socrático. Por isso, decidimos estabelecer que, nas próximas questões, a IA deve apenas fazer perguntas e fornecer dicas graduais, deixando os cálculos e as conclusões para a dupla.
+O que aprendemos:
+Aprendemos a diferença entre um conjunto independente, maximal e máximo. Também entendemos que um conjunto maximal não necessariamente é máximo. Na Questão 2, entendemos que o vetor \(x\) representa quais vértices foram escolhidos e que uma entrada igual a 2 em \(B^t x\) indica que existe uma aresta ligando dois vértices escolhidos.
+Reflexão final
+Onde a IA mais ajudou:
+A IA ajudou principalmente a organizar o raciocínio, explicar os conceitos de forma mais simples e mostrar como identificar conflitos entre vértices. Também ajudou a entender a relação entre o conjunto escolhido, o vetor \(x\) e a matriz \(B^t\).
+Onde tentou entregar a resposta pronta:
+Nas primeiras questões, a IA entregou diretamente os conjuntos, cálculos e respostas finais. Isso facilitou a tarefa, mas não estimulou tanto o nosso próprio raciocínio.
+Onde errou e como verificamos:
+Não identificamos um erro matemático nas respostas analisadas. Mesmo assim, verificamos os resultados comparando cada conjunto com as arestas apresentadas no enunciado.
+O que faríamos diferente na próxima:
+Na próxima questão, vamos pedir que a IA atue realmente como um tutor socrático: primeiro perguntando o que entendemos, depois dando apenas dicas e fazendo perguntas graduais. Nós mesmos faremos os cálculos e apresentaremos a conclusão, usando a IA apenas para conferir nosso raciocínio.
