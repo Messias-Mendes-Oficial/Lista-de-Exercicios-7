@@ -14,7 +14,7 @@ Comparamos uma **Heurística Gulosa** (rápida, mas que pode cair em ótimos loc
 
 ## 👥 Integrante
 
-* **Messias Junio da Silva Mendes** (Messias-Mendes-Oficial)
+* **Messias Junio da Silva Mendes** (Messias-Mendes-Oficial)|Bruno Alves Mendonça De Abreu Filho
 
 ## 🛠️ Tecnologias Utilizadas
 
